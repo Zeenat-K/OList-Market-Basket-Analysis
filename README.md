@@ -4,14 +4,11 @@
 
 This project aims to optimize inventory management for OList, an e-commerce company, by analyzing historical sales data to identify top-selling products responsible for 80% of the revenue and customer purchase behavior through Market Basket Analysis.
 
-I have built a Tableau Workbook that highlights all our key findings! To view it, click [here](https://public.tableau.com/views/OlistDashboard_17100676596960/Top20products?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)! 
+I have built a Tableau Workbook that highlights all the key findings. To view it, click [here](https://public.tableau.com/views/OlistDashboard_17100676596960/Top20products?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)! 
 
 Methodologies:  
 * Aggregated and prepped years worth of sales data for modelling 
 * Performed univariate and outlier analysis
 * Used association and Apriori algorithm to do Market Basket Analysis and generated frequent item sets. Calculated lift. 
 
-Data sourced from Kaggle. Feel free to provide any suggestion and feedback!
-
-
-Download dataset by clicking [here]
+Raw Data sourced from Kaggle. You'll find the clean data [here](https://drive.google.com/drive/folders/1IdHzb2oHbJhe-_fkydk2wB1GNf9FuO4w?usp=sharing). Feel free to provide any suggestion or feedback! :)
